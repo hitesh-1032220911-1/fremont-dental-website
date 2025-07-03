@@ -18,7 +18,7 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Fremont Village Dental Centre - Port Coquitlam Dentist | Dr. Manpreet Grewal",
+  title: "Fremont Village Dental Centre - Port Coquitlam Dentist | Dr. Manpreet Grewal - Updated",
   description:
     "Premier dental care in Port Coquitlam since 2010. Dr. Manpreet Grewal offers cosmetic dentistry, Invisalign, preventative care & family dentistry. Book your appointment today!",
   keywords: [
